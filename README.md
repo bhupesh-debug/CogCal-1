@@ -115,7 +115,7 @@ jupyter notebook notebooks/02_model_eval.ipynb
 
 ## Organizational Affiliations
 
-Independent submission. Bhupesh Sharma, M.S. Accounting Analytics & Data Technology, Pace University Lubin School of Business (December 2025). No affiliation with Google, DeepMind, or Kaggle.
+Independent submission. Bhupesh Chandra Dimri, M.S. Accounting Analytics & Data Technology, Pace University Lubin School of Business (December 2025). No affiliation with Google, DeepMind, or Kaggle.
 
 ---
 
